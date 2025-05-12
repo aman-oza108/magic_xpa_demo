@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <_Project>
+    <ProjectName val="Hospital"/>
+    <VCProjectID val="0"/>
+    <VCActive val="N"/>
+    <WorkOffline val="N"/>
+    <VCUseGitPlugin val="N"/>
+    <SourceDirectory val="Source"/>
+    <ExportsDirectory val="Exports"/>
+    <GUID val="{FC8E8FE6-6E8E-4F24-8A51-DD31316C90D8}"/>
+    <Version min="13020.10"/>
+    <SourceVersion val="14110.00"/>
+  </_Project>
+
+</Application>

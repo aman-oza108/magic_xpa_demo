@@ -1,0 +1,5 @@
+Doctor               1234       darpan@gmail.com               3244595849 Doctor
+Piyush               100        piyush@gmail.com               3920185159 Admin
+aatif                123        aatigf                               1234 User
+aman                 1234       aman                                  111 User
+rahul                123        rahul                                1111 User

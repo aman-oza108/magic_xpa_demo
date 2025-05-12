@@ -1,0 +1,28 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="14110.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="12"/>
+
+  <LastIsnFolder val="0"/>
+
+</Header>
+
+<DataRepositoryProperties/>
+ <DataSourceRepository>
+  <DataObjects>
+ 
+<DataObject PhysicalName="Signup" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="3" name="Signup" offset="229" length="3927"/> 
+<DataObject PhysicalName="Appointments" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="4" name="Appointments" offset="4157" length="7825"/> 
+<DataObject PhysicalName="Patients" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="5" name="Patients" offset="11983" length="3096"/> 
+<DataObject PhysicalName="Medicine" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="6" name="Medicine" offset="15080" length="2673"/> 
+<DataObject PhysicalName="Patient_Feedback" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="7" name="Patient Feedback" offset="17754" length="3124"/> 
+<DataObject PhysicalName="Chat" Resident="N" UniqueISNConvState="12" data_source="SQLite Database" id="12" name="Chat" offset="20879" length="1486"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="31164846-72271892"/>  </Application>
